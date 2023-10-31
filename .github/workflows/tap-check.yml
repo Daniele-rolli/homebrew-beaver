@@ -1,0 +1,15 @@
+name: tap check
+on: push
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Add tap
+        run: |
+          brew tap Daniele-rolli/homebrew-beaver https://github.com/Daniele-rolli/homebrew-beaver.git
+          brew update
+      - name: Install Beaver
+        run: brew install beaver-notes
