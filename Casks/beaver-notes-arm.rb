@@ -11,5 +11,5 @@ and Efficiency"
   homepage "https://beavernotes.com"
   depends_on arch: :arm64
 
-  app "Beaver-notes.app"
+  app "Beaver-notes-arm64.app"
 end
