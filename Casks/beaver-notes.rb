@@ -1,7 +1,7 @@
 cask "beaver-notes" do
 
   version "3.0.0"
-  sha256 "ba04e0ccd719b25851484fe4415cd8fe202dbc0c3538bf35f71d5abefdb65788"
+  sha256 "bf33bd2462c640340d4e3a0a506fc17e60e99f85153c4dc0f4583d37c10e8919"
 
     url "https://github.com/Daniele-rolli/Beaver-Notes/releases/download/#{version}/Beaver-Notes.dmg"
   name "Beaver Notes"
