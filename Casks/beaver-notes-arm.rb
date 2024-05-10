@@ -4,7 +4,7 @@ cask "beaver-notes-arm" do
   sha256 "db6b15cad66940ae6630aa780d0765dc0a6987b8c5f7784d3340e6c7001a99f9"
 
 
-  url "https://github.com/Daniele-rolli/Beaver-Notes/releases/download/#{version}/Beaver-notes-arm64.dmg"
+  url "https://github.com/Beaver-Notes/Beaver-Notes/releases/download/#{version}/Beaver-notes-arm64.dmg"
   name "Beaver Notes"
   desc "Your Personal Note-Taking Haven for Privacy 
 and Efficiency"
