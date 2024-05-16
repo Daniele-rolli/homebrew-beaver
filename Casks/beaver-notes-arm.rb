@@ -1,7 +1,7 @@
 cask "beaver-notes-arm" do
 
-  version "3.1.1"
-  sha256 "db6b15cad66940ae6630aa780d0765dc0a6987b8c5f7784d3340e6c7001a99f9"
+  version "3.2.0"
+  sha256 "685099475fe7d36b6a56739553f273320c3ad9ab832362fb19dbde6063969deb"
 
 
   url "https://github.com/Beaver-Notes/Beaver-Notes/releases/download/#{version}/Beaver-notes-arm64.dmg"
