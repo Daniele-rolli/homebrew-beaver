@@ -12,4 +12,4 @@ jobs:
           brew tap Daniele-rolli/homebrew-beaver https://github.com/Daniele-rolli/homebrew-beaver.git
           brew update
       - name: Install Beaver
-        run: brew install beaver-notes
+        run: brew install beaver-notes-arm
