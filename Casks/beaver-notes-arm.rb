@@ -7,7 +7,7 @@ cask "beaver-notes-arm" do
   desc "Your Personal Note-Taking Haven for Privacy and Efficiency"
   homepage "https://beavernotes.com"
 
-  deprecate! date: "2023-12-01", because: :arch_specific
+  deprecate! date: "2024-09-21", because: :arch_specific
 
   caveats <<~EOS
     This version is deprecated and will no longer be updated.
