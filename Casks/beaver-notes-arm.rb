@@ -1,4 +1,4 @@
-cask "beaver-notes-arm64" do
+cask "beaver-notes-arm" do
   version "3.6.0"
   sha256 "50671052c7ce0d28085d27e324726b92bf20e6bdfb350cf64c5f4debf8ac5232"
 
