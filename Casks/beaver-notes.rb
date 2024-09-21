@@ -2,7 +2,7 @@ cask "beaver-notes" do
   version "3.7.0"
   sha256 "a4cd9fa4db758507747c32b55c2cc8908ddd0d2e6729033fb5cc7105642e6929"
 
-  url "https://github.com/Beaver-Notes/Beaver-Notes/releases/download/#{version}/Beaver-Notes-universal.dmg"
+  url "https://github.com/Beaver-Notes/Beaver-Notes/releases/download/#{version}/Beaver-notes.dmg"
   name "Beaver Notes"
   desc "Your Personal Note-Taking Haven for Privacy and Efficiency"
   homepage "https://beavernotes.com"
